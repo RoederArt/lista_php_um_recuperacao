@@ -20,7 +20,6 @@
     <a href="ex_12.php">Exercício 12</a>
     <a href="ex_13.php">Exercício 13</a>
     <a href="ex_14.php">Exercício 14</a>
-    <a href="index.php">Exercício 14</a>
     <a href="ex15.php/index.php">Exercício 15</a>
     <a href="desafio/index.php">Desafio</a>       
 
